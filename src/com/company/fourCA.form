@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.company.fiveSP">
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.company.fourCA">
   <grid id="27dc6" binding="panelMain" layout-manager="GridLayoutManager" row-count="7" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
     <margin top="0" left="0" bottom="0" right="0"/>
     <constraints>
@@ -10,32 +10,21 @@
     </properties>
     <border type="none"/>
     <children>
-      <grid id="c62ad" binding="Shenhepanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+      <grid id="fb864" binding="Barbarapanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
         <margin top="0" left="0" bottom="0" right="0"/>
         <constraints>
           <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-10255960"/>
+          <background color="-13550998"/>
         </properties>
         <border type="none"/>
         <children/>
       </grid>
-      <grid id="b7106" binding="Zhonglipanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+      <grid id="1bbba" binding="Sucrosepanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
         <margin top="0" left="0" bottom="0" right="0"/>
         <constraints>
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-9147856"/>
-        </properties>
-        <border type="none"/>
-        <children/>
-      </grid>
-      <grid id="d4687" binding="Xiaopanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
-        <margin top="0" left="0" bottom="0" right="0"/>
-        <constraints>
-          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-13268096"/>
@@ -43,10 +32,10 @@
         <border type="none"/>
         <children/>
       </grid>
-      <grid id="b7f62" binding="HuTaopanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+      <grid id="80bbc" binding="Yanfeipanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
         <margin top="0" left="0" bottom="0" right="0"/>
         <constraints>
-          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-9160912"/>
@@ -54,10 +43,10 @@
         <border type="none"/>
         <children/>
       </grid>
-      <grid id="c6746" binding="RaidenShogunpanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+      <grid id="285d8" binding="Lisapanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
         <margin top="0" left="0" bottom="0" right="0"/>
         <constraints>
-          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-10927500"/>
@@ -65,7 +54,18 @@
         <border type="none"/>
         <children/>
       </grid>
-      <grid id="2eec4" binding="TC4panel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+      <grid id="67fcc" binding="Ningguangpanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-9147856"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <grid id="9abd5" binding="TC2panel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
         <margin top="0" left="0" bottom="0" right="0"/>
         <constraints>
           <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -76,57 +76,57 @@
         <border type="none"/>
         <children/>
       </grid>
-      <component id="1bfcc" class="javax.swing.JButton" binding="shenheButton" default-binding="true">
+      <component id="3636d" class="javax.swing.JButton" binding="barbaraButton" default-binding="true">
         <constraints>
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-10255960"/>
+          <background color="-13550998"/>
           <foreground color="-16777216"/>
-          <text value="Shenhe"/>
+          <text value="Barbara"/>
         </properties>
       </component>
-      <component id="5c804" class="javax.swing.JButton" binding="xiaoButton" default-binding="true">
+      <component id="20442" class="javax.swing.JButton" binding="yanfeiButton" default-binding="true">
         <constraints>
           <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-13268096"/>
+          <background color="-9160912"/>
           <foreground color="-16777216"/>
-          <text value="Xiao"/>
+          <text value="Yanfei"/>
         </properties>
       </component>
-      <component id="2b168" class="javax.swing.JButton" binding="zhongliButton" default-binding="true">
+      <component id="ae3e0" class="javax.swing.JButton" binding="sucroseButton" default-binding="true">
         <constraints>
           <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-9147856"/>
+          <background color="-13268096"/>
           <foreground color="-16777216"/>
-          <text value="Zhongli"/>
+          <text value="Sucrose"/>
         </properties>
       </component>
-      <component id="8cbe3" class="javax.swing.JButton" binding="huTaoButton" default-binding="true">
+      <component id="dee46" class="javax.swing.JButton" binding="lisaButton" default-binding="true">
         <constraints>
           <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-9160912"/>
+          <background color="-10927500"/>
           <foreground color="-16777216"/>
-          <text value="Hu Tao"/>
+          <text value="Lisa"/>
         </properties>
       </component>
-      <component id="803f4" class="javax.swing.JButton" binding="raidenShogunButton" default-binding="true">
+      <component id="ea331" class="javax.swing.JButton" binding="ningguangButton" default-binding="true">
         <constraints>
           <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-10927500"/>
+          <background color="-9147856"/>
           <foreground color="-16777216"/>
-          <text value="Raiden Shogun"/>
+          <text value="Ningguang"/>
         </properties>
       </component>
-      <component id="8e732" class="javax.swing.JButton" binding="toComeButton" default-binding="true">
+      <component id="84c76" class="javax.swing.JButton" binding="toComeButton" default-binding="true">
         <constraints>
           <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
@@ -136,7 +136,7 @@
           <text value="To Come"/>
         </properties>
       </component>
-      <component id="6d3bd" class="javax.swing.JLabel">
+      <component id="71271" class="javax.swing.JLabel">
         <constraints>
           <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>

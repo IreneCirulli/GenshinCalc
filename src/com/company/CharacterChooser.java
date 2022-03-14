@@ -25,7 +25,7 @@ public class CharacterChooser extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 FiveWeapon screen = new FiveWeapon();
-                screen.setSize(750, 500);
+                screen.setSize(750, 550);
                 screen.setVisible(true);
                 try {
                     screen.SP1panel.setLayout(new FlowLayout());
@@ -66,7 +66,7 @@ public class CharacterChooser extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                FourWeapon screen = new FourWeapon();
-                screen.setSize(750, 500);
+                screen.setSize(750, 550);
                 screen.setVisible(true);
                 try {
                     screen.SPpanel.setLayout(new FlowLayout());

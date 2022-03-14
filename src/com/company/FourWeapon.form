@@ -76,67 +76,6 @@
         <border type="none"/>
         <children/>
       </grid>
-      <component id="9ecc7" class="javax.swing.JRadioButton" binding="CLRadioButton">
-        <constraints>
-          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-983055"/>
-          <foreground color="-983055"/>
-          <text value="Claymore"/>
-        </properties>
-      </component>
-      <component id="3ad54" class="javax.swing.JRadioButton" binding="BARadioButton">
-        <constraints>
-          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-983055"/>
-          <foreground color="-983055"/>
-          <text value="Bow and Arrow"/>
-        </properties>
-      </component>
-      <component id="aa09" class="javax.swing.JRadioButton" binding="SPRadioButton">
-        <constraints>
-          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-983055"/>
-          <foreground color="-983055"/>
-          <text value="Spear"/>
-        </properties>
-      </component>
-      <component id="fa68f" class="javax.swing.JRadioButton" binding="SWRadioButton">
-        <constraints>
-          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-983055"/>
-          <foreground color="-983055"/>
-          <text value="Sword"/>
-        </properties>
-      </component>
-      <component id="94bb4" class="javax.swing.JRadioButton" binding="CARadioButton">
-        <constraints>
-          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-983055"/>
-          <foreground color="-983055"/>
-          <text value="Cataylst"/>
-        </properties>
-      </component>
-      <component id="6afb8" class="javax.swing.JRadioButton" binding="TCRadioButton">
-        <constraints>
-          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <background color="-983055"/>
-          <foreground color="-983055"/>
-          <selected value="false"/>
-          <text value="To Come"/>
-        </properties>
-      </component>
       <component id="4c602" class="javax.swing.JLabel">
         <constraints>
           <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
@@ -144,6 +83,66 @@
         <properties>
           <foreground color="-983055"/>
           <text value="Pick the weapon used"/>
+        </properties>
+      </component>
+      <component id="672cd" class="javax.swing.JButton" binding="CLButton">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-983055"/>
+          <foreground color="-15002828"/>
+          <text value="Claymore"/>
+        </properties>
+      </component>
+      <component id="ccb1" class="javax.swing.JButton" binding="SWButton">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-983055"/>
+          <foreground color="-15002828"/>
+          <text value="Sword"/>
+        </properties>
+      </component>
+      <component id="c508c" class="javax.swing.JButton" binding="BAButton">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-983055"/>
+          <foreground color="-15002828"/>
+          <text value="Bow and Arrow"/>
+        </properties>
+      </component>
+      <component id="e4c7a" class="javax.swing.JButton" binding="CAButton">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-983055"/>
+          <foreground color="-15002828"/>
+          <text value="Catalyst"/>
+        </properties>
+      </component>
+      <component id="3d914" class="javax.swing.JButton" binding="SPButton">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-983055"/>
+          <foreground color="-15002828"/>
+          <text value="Spear"/>
+        </properties>
+      </component>
+      <component id="13afb" class="javax.swing.JButton" binding="TCButton">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-983055"/>
+          <foreground color="-15002828"/>
+          <text value="To Come"/>
         </properties>
       </component>
     </children>
